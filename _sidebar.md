@@ -9,7 +9,6 @@
   * [Overview](README.md#overview-2)
   * [Selecting User Groups](README.md#selecting-user-groups)
 * [FAQs](README.md#faqs)
-  * [How do I reset my password?](README.md#how-do-i-reset-my-password)
   * [Can I edit an NFT after it's minted?](README.md#can-i-edit-an-nft-after-its-minted)
   * [How do I contact support?](README.md#how-do-i-contact-support)
 * [Support](README.md#support)

@@ -60,10 +60,6 @@ The no-code campaign builder in Fardrops allows you to create targeted campaigns
 
 ## FAQs
 
-### How do I reset my password?
-
-To reset your password, click on the "Forgot Password" link on the login page and follow the instructions.
-
 ### Can I edit an NFT after it's minted?
 
 No, once an NFT is minted, its details cannot be changed. Please ensure all information is correct before minting.
